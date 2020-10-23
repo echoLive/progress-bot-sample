@@ -1,0 +1,77 @@
+#outer-container {
+    width: 100%;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+.pb-div {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  height: 10vh;
+}
+
+#pb-title {
+  font-size: 5vh;
+  position: relative;
+  font-weight: 600;
+  height: auto;
+  text-align: center;
+  color: #989898;
+}
+
+#pb-episode {
+  height: 3vh;
+  font-size: 3vh;
+  text-align: center;
+  color: #989898;
+}
+
+#inner-container{
+  margin-top: 1.5rem;
+}
+
+svg {
+	border-radius: 5px;
+}
+
+.footer-text {
+  font-size: x-small;
+  color: grey;
+  float: right;
+}
+
+#totalUsers {
+  text-align: right;
+  float: right;
+}
+
+#plug {
+  width: auto;
+  height: 32px;
+  overflow: hidden;
+  color: grey;
+  float: left;
+}
+
+#plug-text {
+  margin-left: 10px;
+  display: none;
+  float: right;
+  margin-top: -3px;
+}
+
+a {
+  color: #287fb8;
+  font-size: 80%;
+}
+
+#plug > img {
+  opacity: 0.7;
+  width: 15px;
+}
+
+#footer {
+  margin-top: -5px;
+}
+
+body {
+  background: #292929;
+}
